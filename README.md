@@ -1,5 +1,5 @@
 # makerspacesurvey
-Makerspace Survey Data 2019 by James Mitchell and Robert Wilson
+Makerspace Survey Data 2019 by James Mitchell (jamerply) and Robert Wilson (rwilson)
 
 This data is licensed under CC BY-SA: 
 
